@@ -1,1 +1,1 @@
-# LTS Support With Tagging Magic
+# LTS Support with Tagging Magic
